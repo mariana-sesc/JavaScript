@@ -1,0 +1,4 @@
+let nun1 = 50;
+let num2 = 100;
+
+console.log(num1 > num2); // false
